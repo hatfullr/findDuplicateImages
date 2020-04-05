@@ -1,5 +1,7 @@
 # findDuplicateImages
 
+This program searches for duplicate images efficiently.
+
 ## Dependencies:
     Python3
     numpy
