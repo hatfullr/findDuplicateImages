@@ -1,6 +1,6 @@
 # findDuplicateImages
 
-This program searches for duplicate images efficiently.
+This program searches for duplicate images somewhat efficiently. Efficiency can mainly be improved by writing GPU code (complicated) or by using multiprocessing on more parts of the code than just image resizing / grayscaling.
 
 ## Dependencies:
     Python3
